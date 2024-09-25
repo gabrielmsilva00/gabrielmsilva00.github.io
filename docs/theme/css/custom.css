@@ -24,3 +24,7 @@
 #extras.body {
     display: none !important;
 }
+
+.post-info {
+    display: none !important;
+}
