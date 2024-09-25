@@ -456,14 +456,6 @@ Extensions
   font-weight: 200;
 }
 
-#content {
-    display: none !important;
-}
-
-#extras {
-    display: none !important;
-}
-
-#contentinfo {
+section {
     display: none !important;
 }
