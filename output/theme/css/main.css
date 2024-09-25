@@ -456,14 +456,14 @@ Extensions
   font-weight: 200;
 }
 
-.content {
+#content {
     display: none !important;
 }
 
-.extras {
+#extras {
     display: none !important;
 }
 
-.contentinfo {
+#contentinfo {
     display: none !important;
 }
