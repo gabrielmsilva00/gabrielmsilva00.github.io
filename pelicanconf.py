@@ -15,6 +15,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+OUTPUT_PATH = 'docs/'
+
 CSS_FILE = 'custom.css'
 
 # Blogroll
