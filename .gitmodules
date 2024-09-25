@@ -1,0 +1,9 @@
+[submodule "theme/resume"]
+	path = theme/resume
+	url = https://github.com/suheb/resume.git
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = https://github.com/getpelican/pelican-plugins
+[submodule "themes/Peli-Kiera"]
+	path = themes/Peli-Kiera
+	url = https://github.com/aleylara/Peli-Kiera
