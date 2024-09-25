@@ -17,7 +17,7 @@ AUTHOR_FEED_RSS = None
 
 THEME = 'notmyidea'
 
-CSS_FILE = "wide.css"
+CSS_FILE = 'custom.css'
 
 # Blogroll
 LINKS = (
