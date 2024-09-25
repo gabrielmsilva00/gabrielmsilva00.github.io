@@ -1,2 +1,8 @@
 */works
+*/__pycache__
+*/content
+Makefile
+pelicanconf.py
+publishconf.py
+tasks.py
 Build.lnk
