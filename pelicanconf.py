@@ -15,8 +15,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-THEME = 'notmyidea'
-
 CSS_FILE = 'custom.css'
 
 # Blogroll
