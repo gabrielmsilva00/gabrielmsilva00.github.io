@@ -17,6 +17,8 @@ AUTHOR_FEED_RSS = None
 
 THEME = 'notmyidea'
 
+CSS_FILE = "main.css"
+
 # Blogroll
 LINKS = (
     ("Pelican", "https://getpelican.com/"),
